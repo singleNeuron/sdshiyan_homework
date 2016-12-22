@@ -4,4 +4,4 @@
 目前(只有)16级22班Neuron维护，欢迎各位大佬加入，欢迎大家加入Pythoh等语言，谢绝C#。
 Email：liziyuan123456@yeah.net
 QQ：1075262552
-QT编译环境下载地址：http://download.qt.io/official_releases/qt/5.7/5.7.0/qt-opensource-windows-x86-mingw530-5.7.0.exe
+QT编译环境：http://download.qt.io/official_releases/qt/5.7/5.7.0/qt-opensource-windows-x86-mingw530-5.7.0.exe
